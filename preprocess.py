@@ -3,7 +3,7 @@
 import librosa,librosa.display
 import matplotlib.pyplot as plt
 import numpy as np
-file = "guitar.wav"
+file = "guitar.wav"   #same file path as the python script
 
 # WAVEFORM
 signal, sr = librosa.load(file, sr=44100)  # sr * T -> 22050 * 30
