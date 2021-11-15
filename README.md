@@ -4,8 +4,8 @@ Deep Learning concepts and code for Music Applications.
 The below waveforms can be obtained by utilising the [preprocess.py file](https://github.com/heyitsraman/deepaimusic/blob/main/preprocess.py) which is intended for preprocessing of a guitar audio file.
 
 
-![guitar_waveform](https://user-images.githubusercontent.com/94373661/141802388-e84717be-6955-4986-86b0-f8ee8dc168ad.png)
-![guitar_fft](https://user-images.githubusercontent.com/94373661/141802397-662e357c-d5b9-4d71-b661-76a6b5fd665e.png)
-![guitar_spectrogram](https://user-images.githubusercontent.com/94373661/141802249-b5b0b558-1fc5-4e91-988a-89e6d1e6ee12.png)
-![guitar_stft(dB)](https://user-images.githubusercontent.com/94373661/141802266-d8c90858-9ffb-43c3-96a4-15c0312334e4.png)
-![guitar_mfcc](https://user-images.githubusercontent.com/94373661/141802199-44eeadc7-54f9-4982-8b5c-044e30a139c9.png)
+![guitar_waveform](https://user-images.githubusercontent.com/94373661/141806285-28e04d63-d2ba-4dae-aaba-fa3a322d5ccc.png)
+![guitar_fft](https://user-images.githubusercontent.com/94373661/141806294-b6703aa5-e321-4bee-a587-a4854bbb6fe6.png)
+![guitar_spectrogram](https://user-images.githubusercontent.com/94373661/141806268-053dc6c7-aad8-498f-b11e-6c6bbf459490.png)
+![guitar_stft(dB)](https://user-images.githubusercontent.com/94373661/141806276-49482066-f871-43a9-865b-dd583c66efb4.png)
+![guitar_mfcc](https://user-images.githubusercontent.com/94373661/141806297-1cf01864-7634-4ad4-80c9-aa033417711c.png)
