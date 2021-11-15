@@ -1,7 +1,9 @@
+#Preprocessing of a guitar audio file
+
 import librosa, librosa.display
 import matplotlib.pyplot as plt
 import numpy as np
-file = "guitar.wav"
+file = "guitar.wav"  #keep the file in the same folder as the python script
 
 # WAVEFORM
 signal, sr = librosa.load(file, sr=44100)  # sr * T -> 22050 * 30
